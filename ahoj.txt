@@ -1,1 +1,4 @@
- Donec eleifend finibus tempus. Pellentesque diam ex, scelerisque eget elementum non, maximus eget purus. Maecenas odio erat, rutrum faucibus justo sollicitudin, mattis lobortis nisi. Aenean eget nisi quam. Sed iaculis arcu in ipsum suscipit venenatis. Mauris convallis mi nec neque semper, sit amet tempus mi ullamcorper. In posuere ullamcorper orci vitae imperdiet. Nam nulla ligula, dictum non purus quis, varius cursus eros. Donec condimentum non lectus vel egestas. Etiam imperdiet, leo mattis laoreet consectetur, purus tortor cursus mauris, quis aliquet massa mauris id nulla.
+Ahoj světe!
+
+Hej, pane diskžokej, moc na ni nekoukej...
+Táhne jí na dvacet, máš desky obracet.
